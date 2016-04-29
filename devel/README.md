@@ -7,5 +7,6 @@ Replace this text with the instructions your classmates will need to run your pr
 2. Run the program
 3. Very simple, you don't need any extras
 4. Follow the prompts on the screen
+5. Copy and paste the answers to share with friends
 
 Thanks for trying my personality test.
